@@ -3,8 +3,11 @@ In this notebook, you will train a transformer model from scratch to perform sen
 By completing this project, you will demonstrate your competency in the following learning objectives:
 
 Load, explore, and prepare a text dataset for training a transformer model using PyTorch.
+
 Customize the architecture of the transformer model for a classification task.
+
 Train and test a transformer model on the IMDB dataset.
+
 Now that you have an overview of what you will achieve in this project, let’s move on to the project outline.
 
 Project Outline
