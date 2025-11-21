@@ -11,10 +11,17 @@ Project Outline
 This notebook is organized into the following sections:
 
 Introduction: Overview of the project, learning objectives, and understanding sentiment analysis.
+
 Load, Explore, and Prepare the Dataset: Load the IMDB dataset, explore it with visualizations, and split it into training and validation sets.
+
 Implement a DataLoader in PyTorch: Create the IMDBDataset class and use it with the PyTorch DataLoader, including tokenization.
+
 Customize the Transformer Architecture: Modify the transformer model for binary classification.
+
 Implement Accuracy Calculation Method: Create a function to compute accuracy for monitoring performance.
+
 Train the Model: Complete and execute the training loop for binary classification.
+
 Test the Model: Evaluate the model on the test dataset and ensure it achieves over 75% accuracy.
+
 Conclusion: Summarize the project results and key takeaways.
